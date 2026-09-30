@@ -162,5 +162,6 @@ This project uses **zero external AI APIs**. Everything runs offline using open-
 
 ## 👩‍💻 Author
 Varsha Singh
+
 Built as a beginner-friendly ML + NLP portfolio project.  
 Tech: Python · NLTK · scikit-learn · Streamlit · pandas · matplotlib

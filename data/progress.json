@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2026-09-25T19:41:31",
+    "topic": "NLP",
+    "score": 4,
+    "total": 5,
+    "percentage": 80.0,
+    "breakdown": [
+      {
+        "question": "What are stop words?",
+        "your_answer": "stop words are words like is,the which are used for grammar glue and has no meaning \n",
+        "correct_answer": "Stop words are common words like 'the', 'is', 'in' that are often removed during text preprocessing as they carry little meaningful information.",
+        "is_correct": false,
+        "topic": "NLP"
+      },
+      {
+        "question": "What is Natural Language Processing?",
+        "your_answer": "",
+        "correct_answer": "NLP is a field of AI that enables computers to understand, interpret, and generate human language using computational techniques.",
+        "is_correct": true,
+        "topic": "NLP"
+      },
+      {
+        "question": "What is tokenisation?",
+        "your_answer": "",
+        "correct_answer": "Tokenisation is the process of splitting text into individual units called tokens, which can be words, subwords, or sentences.",
+        "is_correct": true,
+        "topic": "NLP"
+      },
+      {
+        "question": "What is lemmatisation?",
+        "your_answer": "",
+        "correct_answer": "Lemmatisation reduces words to their dictionary base form (lemma) using vocabulary and morphological analysis (e.g., 'better' -> 'good').",
+        "is_correct": true,
+        "topic": "NLP"
+      },
+      {
+        "question": "What is a bag of words?",
+        "your_answer": "",
+        "correct_answer": "Bag of Words is a text representation that counts word occurrences in a document, ignoring grammar and word order.",
+        "is_correct": true,
+        "topic": "NLP"
+      }
+    ]
+  }
+]
